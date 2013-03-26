@@ -1,0 +1,15 @@
+html { height: 100% }
+body { height: 100%; margin: 0; padding: 0 }
+p {font-size:20px;}
+
+td {vertical-align:top}
+hr {border:none;border-bottom: 1px solid #CCC;height:0px;margin:none;}
+
+.center {text-align:center;}
+.right {text-align:right;}
+.mauto {margin:0 auto 0 auto;}
+
+#mainpage {padding:5px 15px 15px 25px}
+#map_canvas { height: 300px; width: 300px; }
+
+div.elevation div h3 {font-size:22px;}
